@@ -1,0 +1,7 @@
+#menu ul{
+    display: inline;
+    position: fixed;
+}
+#menu ul li{
+    display: inline;
+}
